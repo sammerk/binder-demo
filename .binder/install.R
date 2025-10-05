@@ -1,0 +1,11 @@
+install.packages(
+ c( 
+  "dataRetrieval",
+  "dplyr",
+  "ggplot2",
+  "lavaan",
+  "lubridate",
+  "rmarkdown",
+  "tidyr",
+  "viridis")
+)
